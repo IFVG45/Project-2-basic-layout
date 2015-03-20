@@ -19,11 +19,13 @@ text-align: center;
 position:relative;
 top:8px;
 right:175px;
+margin-right: 5px;
 }
 
 header{
   background-color:#e7001d;
   width:189%;
+  display:block;
 }
 
 h4{
@@ -143,6 +145,8 @@ div img{
   position:relative;
   top:2px;
   right:179px;
+  margin-right: 12px;
+  display:block;
 }
 
  footer{
