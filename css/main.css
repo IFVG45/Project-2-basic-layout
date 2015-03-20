@@ -1,0 +1,140 @@
+
+html{
+   box-sizing: border-box;
+
+   }
+
+   *, *::before, *::after {
+     box-sizing: inherit;
+   }
+
+h1,h2,h3,h4,p,nav{
+  font-family: 'Noto Sans', bold;
+}
+
+h1{
+margin:0;
+color:#fff;
+text-align: center;
+background-color: #e7001d;
+}
+
+header{
+  background-color:#e7001d;
+}
+
+h4{
+  font-size:2rem;
+  text-align: center;}
+
+
+nav{
+background-color:#000;
+color: #fff;
+}
+
+nav li{
+  display: block;
+  padding: 1em;
+  float:left;
+  width:50%;
+  background-color:#000;
+}
+
+ul{
+  background-color: #000;
+  list-style-type: none;
+  padding:0;
+  margin:0;
+  width:100%;
+}
+
+  .p2{
+    clear: both;
+  }
+
+header p{
+  text-align: center;
+}
+
+header .symbol{
+  font-size:3em;
+  padding:0;
+}
+
+.zodiac-header,.zodiac-header-white{
+  text-align:center;
+}
+
+  h3 {
+    font-size: 0rem;
+    color:#fff;
+    text-align: center;
+    position: relative;
+    bottom:120px;
+    left:5px;
+    }
+
+ .medallion{
+   float:left;
+   width:5%;
+   margin:2px;
+   border:0;
+ }
+
+img{
+     width:100%;
+     text-align:center;
+}
+
+div img{
+  width: 50%;
+  float: left;
+}
+
+.dragon{
+  background-color:#e4c22a;
+  border: 1px solid white;
+  overflow: hidden;
+}
+
+.goat{
+  background-color:#222222;
+  border: 1px solid white;
+  overflow: hidden;
+  color:#fff
+  }
+
+.rooster{
+  background-color:#bc0017;
+  border: 1px solid white;
+  overflow: hidden;
+  color:#fff
+}
+  .ox{
+    background-color:#e4c22a;
+    border: 1px solid white;
+    overflow: hidden;
+  }
+
+ h2{
+  margin:0;
+  color:#fff;
+  text-align: center;
+  width:100%;
+  background-color: #e7001d;
+}
+
+ footer{
+   background-color:#222222;
+   color:#fff;
+   text-align: center;
+   font-size: .8rem;
+   padding:1em;
+   }
+
+ h3{
+   text-align: center;
+   font-size:3em;
+   float:none
+ }

@@ -1,1 +1,2 @@
-# Project-2-basic-layout
+# dsn1674-project-2
+Basic layout
