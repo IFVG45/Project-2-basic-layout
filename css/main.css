@@ -64,6 +64,8 @@ header .symbol{
 
 .zodiac-header,.zodiac-header-white{
   text-align:center;
+
+
 }
 
   h3 {
@@ -76,9 +78,10 @@ header .symbol{
     }
 
  .medallion{
-   float:left;
-   width:5%;
-   margin:2px;
+   width:23%;
+   position:relative;
+   left:151px;
+   top:68px;
    border:0;
  }
 
